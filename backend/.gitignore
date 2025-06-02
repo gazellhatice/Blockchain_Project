@@ -1,0 +1,23 @@
+# Ortak hassas dosyalar
+.env
+__pycache__/
+*.pyc
+*.log
+
+# VSCode
+.vscode/
+
+# Python virtualenv
+venv/
+env/
+
+# Node.js
+node_modules/
+dist/
+
+# IDE klasörleri
+.idea/
+.DS_Store
+
+# .gitignore
+.env
